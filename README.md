@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif)
+![MasterHead](https://webcloudtechnology.in/wp-content/uploads/2022/07/Web-Designing-Banner.gif)
 <h1 align="center">Hi 👋, I'm mohit manik</h1>
 <h3 align="center">A passionate frontend developer </h3>
 

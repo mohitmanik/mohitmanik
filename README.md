@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **mohitmanik161@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mohit-manik-778b38251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohit manik" height="30" width="40" /></a>
